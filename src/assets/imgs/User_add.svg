@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="638.6 1462.36 13.188 11.28">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: none;
+        stroke: #fff;
+        stroke-width: 0.8px;
+      }
+
+      .cls-1 {
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-miterlimit: 10;
+      }
+    </style>
+  </defs>
+  <g id="User_add" data-name="User add" transform="translate(635 1460.76)">
+    <path id="Tracé_868" data-name="Tracé 868" class="cls-1" d="M10.144,28.425V27.416A2.319,2.319,0,0,0,7.828,25.1H3.316A2.319,2.319,0,0,0,1,27.416v1.009" transform="translate(3 -15.945)"/>
+    <ellipse id="Ellipse_2465" data-name="Ellipse 2465" class="cls-1" cx="2.791" cy="2.791" rx="2.791" ry="2.791" transform="translate(5.781 2)"/>
+    <line id="Ligne_23" data-name="Ligne 23" class="cls-2" x2="3.644" transform="translate(13.144 7.885)"/>
+    <line id="Ligne_24" data-name="Ligne 24" class="cls-2" x2="3.644" transform="translate(14.966 6.063) rotate(90)"/>
+  </g>
+</svg>
